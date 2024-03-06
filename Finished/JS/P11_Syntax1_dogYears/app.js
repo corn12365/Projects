@@ -7,7 +7,7 @@ earlyYears = 2;
 // multiply the early years by 10.5
 earlyYears *= 10.5;
 // Subtract 2 from myAge and assign it to a variable called laterYears
-let laterYears = myAge -= 2;
+let laterYears = myAge - 2;
 // Multiply the laterYears variable by 4 to calculate the number of dog years accounted for by your later years.
 laterYears *= 4;
 // Add earlyYears and laterYears together, and store that in a variable named myAgeInDogYears

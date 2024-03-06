@@ -4,7 +4,7 @@ let username = 'Mason';
 username ? console.log(`Hello, ${username}!`) : console.log('Hello!');
 
 // question
-userQuestion = 'Am I a wizard?';
+let userQuestion = 'Am I a wizard?';
 
 // log question
 console.log(`You asked: ${userQuestion}`);
